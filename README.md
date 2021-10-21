@@ -1,24 +1,16 @@
-# app
+# Frontend starter project
 
-## Project setup
+## Pull down and setup the project:
 ```
-npm install
+git clone https://github.com/aceracerff/frontend-boilerplate.git
 ```
+Then, from the project root, run this command:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+```npm install```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Run Frontend Server:
+From the project root, run this command:
 
-### Lints and fixes files
-```
-npm run lint
-```
+```npm run serve```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Go to localhost:3000 in web browser.
