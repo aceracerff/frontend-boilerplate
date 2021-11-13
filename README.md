@@ -2,7 +2,7 @@
 
 ## Pull down and setup the project:
 ```
-git clone https://github.com/aceracerff/frontend-boilerplate.git
+git clone https://github.com/jordanwelzbacher/frontend-boilerplate.git
 ```
 Then, from the project root, run this command:
 
